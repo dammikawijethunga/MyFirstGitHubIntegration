@@ -30,6 +30,9 @@ namespace HelloWorldConsoleApp
 
             Console.WriteLine("Added a BugFix_3 branch");
             Console.ReadKey();
+
+            Console.WriteLine("test commit-1");
+            Console.ReadKey();
         }
     }
 }
