@@ -24,6 +24,9 @@ namespace HelloWorldConsoleApp
 
             Console.WriteLine("Added a BugFix_1 branch");
             Console.ReadKey();
+
+            Console.WriteLine("Added a BugFix_2 branch");
+            Console.ReadKey();
         }
     }
 }
