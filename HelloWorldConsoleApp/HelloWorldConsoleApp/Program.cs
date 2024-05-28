@@ -33,6 +33,9 @@ namespace HelloWorldConsoleApp
 
             Console.WriteLine("test commit-1");
             Console.ReadKey();
+
+            Console.WriteLine("test commit-2");
+            Console.ReadKey();
         }
     }
 }
